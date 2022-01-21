@@ -1,7 +1,6 @@
 #include<bits/stdc++.h>
 #define MAX 30
 
-
 using namespace std;
 
 int dx[4] = {0, 1, 0 ,-1};
@@ -9,14 +8,14 @@ int dy[4] = {1, 0, -1, 0};
 
 int n;
 bool vis[MAX][MAX] = { false };
-int board[MAX][MAX];
-
+char board[MAX][MAX];
 
 int main() {
     ios::sync_with_stdio(0);
     cin.tie(0);
     int count = 0;
     cin>>n;
+    vector<int> v;
     for(int i=0; i<n; i++) {
         for(int j=0;j<n; j++){
             cin>>board[i][j];
@@ -25,10 +24,12 @@ int main() {
     for(int i=0; i<n; i++) {
         for(int j=0;j<n; j++){
             if(vis[i][j]) continue;
-            if(board[i][j]==0) continue;
+            if(board[i][j]=='0') continue;
             vis[i][j] = true;
             queue<pair<int, int> > Q;
             Q.push(make_pair(i, j));
+            count++;
+            int cnt = 1;
             while(!Q.empty()) {
                 pair<int, int> cur = Q.front();
                 Q.pop();
@@ -39,12 +40,16 @@ int main() {
                     if(nx<0||nx>=n||ny<0||ny>=n) continue;
                     // 방문 여부 검사
                     if(vis[nx][ny]) continue;
+                    if(board[nx][ny]=='0') continue;
                     vis[nx][ny] = true;
                     Q.push(make_pair(nx, ny));
-                    count++;
+                    cnt++;
                 }
             }
+            v.push_back(cnt);
         }
     }
-    cout<<count;
+    sort(v.begin(), v.end());
+    cout<<count<<'\n';
+    for(auto a : v) cout<<a<<'\n';
 }
