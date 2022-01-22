@@ -38,3 +38,11 @@
 |참가자|불참|
 |---|---|
 |엄유상, 노다빈, 김예빈||
+
+**1주차 정리 자료**
+
+|이름|링크|
+|--|--|
+|엄유상|[알고리즘 1주차](https://dbtkd1801.gitbook.io/yeeeee/algorithm1)|
+|김예빈|[알고리즘 1주차](https://byein.tistory.com/category/Algorithm/1%EC%A3%BC%EC%B0%A8)|
+|노다빈||
