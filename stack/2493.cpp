@@ -10,7 +10,9 @@ int main() {
         int h;
         cin>>h;
         while(!S.empty()) {
+            // 가장 상단 아이템
             auto e = S.top();
+            // 상단의 아이템이 전파를 받으면,
             if(e.second>=h) {
                 cout<<e.first<<' ';
                 break;

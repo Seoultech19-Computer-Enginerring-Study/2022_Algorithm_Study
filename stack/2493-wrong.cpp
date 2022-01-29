@@ -11,17 +11,16 @@ int main() {
         cin>>h;
         v.push_back(h);
     }
+
     vector<int> result(n);
     for(int i=n-1; i>=0; i--) {
-        bool flag = false;
         for(int j=i-1; j>=0; j--) {
             if(v[i]<=v[j]) {
                 result[i] = j+1;
-                flag = true;
                 break;
             }
         }
-        if(!flag) result[i] = 0;
+        if(!result[i]) result[i] = 0;
     }
     for(auto a : result) {
         cout<<a<<' ';
