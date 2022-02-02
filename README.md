@@ -90,6 +90,6 @@
 
 **4차 발표 자료**
 |이름|자료|
-|--|--|
-|엄유상||
+|--|--|[BOJ 10026](https://github.com/Seoultech19-Computer-Enginerring-Study/2022_Algorithm_Study/raw/main/10026.pptx)|
+|엄유상|[BOJ 1937](https://github.com/Seoultech19-Computer-Enginerring-Study/2022_Algorithm_Study/raw/main/1937.pptx)|
 |김예빈||
