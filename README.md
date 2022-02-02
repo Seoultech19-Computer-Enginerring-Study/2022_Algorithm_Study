@@ -68,7 +68,7 @@
 |이름|링크|
 |--|--|
 |엄유상||
-|김예빈||
+|김예빈|[3주차](https://byein.tistory.com/category/Algorithm/3%EA%B0%95)|
 
 **3차 발표 자료**
 |이름|자료|
@@ -77,16 +77,16 @@
 |김예빈|[BOJ 7576](https://github.com/Seoultech19-Computer-Enginerring-Study/2022_Algorithm_Study/raw/main/7576.pptx)|
 
 
-### 3차
+### 4차
 
 |참가자|불참|지각|
-|김예빈, 엄유상||
+|김예빈, 엄유상|||
 
-**3차 정리 자료**
+**4차 정리 자료**
 |이름|링크|
 |--|--|
 |엄유상||
-|김예빈||
+|김예빈|[4주차](https://byein.tistory.com/category/Algorithm/4%EA%B0%95)|
 
 **4차 발표 자료**
 |이름|자료|
