@@ -93,3 +93,20 @@
 |--|--|
 |엄유상|[BOJ 1937](https://github.com/Seoultech19-Computer-Enginerring-Study/2022_Algorithm_Study/raw/main/1937.pptx)|
 |김예빈|[BOJ 10026](https://github.com/Seoultech19-Computer-Enginerring-Study/2022_Algorithm_Study/raw/main/10026.pptx)|
+
+### 5차
+
+|참가자|불참|지각|
+|김예빈, 엄유상|||
+
+**5차 정리 자료**
+|이름|링크|
+|--|--|
+|엄유상||
+|김예빈|[5주차]()|
+
+**5차 발표 자료**
+|이름|자료|
+|--|--|
+|엄유상|[BOJ 2448](https://github.com/Seoultech19-Computer-Enginerring-Study/2022_Algorithm_Study/raw/main/2448.pptx)|
+|김예빈|[BOJ 11729](https://github.com/Seoultech19-Computer-Enginerring-Study/2022_Algorithm_Study/raw/main/11729.pptx)|
