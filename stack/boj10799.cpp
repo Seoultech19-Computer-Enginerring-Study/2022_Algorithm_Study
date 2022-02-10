@@ -13,6 +13,8 @@ int main()
     int cnt = 0, sum = 0;
     stack<char> stack;
 
+    // 여기서 string의 인덱스로 이전의 괄호를 판단하지 않고 stack.top()을 이용하게 되면 이전 괄호가 아닌 다른 것을 기준으로 삼아 답이 다르게 나온다.
+    
     for (int i = 0;i<s.size();i++)
     {
         if (s[i] == '(')

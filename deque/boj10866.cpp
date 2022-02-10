@@ -19,7 +19,8 @@ int main()
         {
             cin >> x;
             dq.push_front(x);
-        }else if (s == "push_back")
+        }
+        else if (s == "push_back")
         {
             cin >> x;
             dq.push_back(x);
@@ -35,7 +36,8 @@ int main()
                 cout << dq.front() << "\n";
                 dq.pop_front();
             }
-        }else if (s == "pop_back")
+        }
+        else if (s == "pop_back")
         {
             if (dq.empty())
             {
