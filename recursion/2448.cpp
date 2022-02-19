@@ -8,7 +8,7 @@ void star(int n, int level)
     int len = 3 * pow(2, level);
     for (int i = 0; i < len; i++)
     {
-        for (int j = 0; j < 2*len; j++)
+        for (int j = 0; j < 2 * len; j++)
         {
             arr[j + 2*len][i] = arr[j][i];
             arr[j + len][i + len] = arr[j][i];
