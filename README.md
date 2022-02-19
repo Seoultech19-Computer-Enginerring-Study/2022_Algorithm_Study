@@ -110,3 +110,21 @@
 |--|--|
 |엄유상|[BOJ 2448](https://github.com/Seoultech19-Computer-Enginerring-Study/2022_Algorithm_Study/raw/main/2448.pptx)|
 |김예빈|[BOJ 11729](https://github.com/Seoultech19-Computer-Enginerring-Study/2022_Algorithm_Study/raw/main/11729.pptx)|
+
+### 6차
+
+|참가자|불참|지각|
+|김예빈, 엄유상|||
+
+**6차 정리 자료**
+|이름|링크|
+|--|--|
+|엄유상||
+|김예빈|[6주차]()|
+
+**6차 발표 자료**
+|이름|자료|
+|--|--|
+|엄유상|[BOJ 16234](https://github.com/Seoultech19-Computer-Enginerring-Study/2022_Algorithm_Study/raw/main/16234.pptx)|
+|김예빈|[BOJ 18808](https://github.com/Seoultech19-Computer-Enginerring-Study/2022_Algorithm_Study/raw/main/18808.pptx)|
+
