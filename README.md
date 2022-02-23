@@ -150,4 +150,4 @@
 |이름|자료|
 |--|--|
 |엄유상|[BOJ 10942](https://github.com/Seoultech19-Computer-Enginerring-Study/2022_Algorithm_Study/raw/main/10942.pptx)|
-|김예빈|[BOJ 9251](https://github.com/Seoultech19-Computer-Enginerring-Study/2022_Algorithm_Study/raw/main/0251.pptx)|
+|김예빈|[BOJ 9251](https://github.com/Seoultech19-Computer-Enginerring-Study/2022_Algorithm_Study/raw/main/9251.pptx)|
