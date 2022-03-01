@@ -144,10 +144,28 @@
 |이름|링크|
 |--|--|
 |엄유상|[7주차](https://eomyoosang.github.io/algorithm/2022/02/23/Algorithm12/#)|
-|김예빈|[7주차]()|
+|김예빈|[7주차](https://byein.tistory.com/category/Algorithm/7%EA%B0%95)|
 
 **7차 발표 자료**
 |이름|자료|
 |--|--|
 |엄유상|[BOJ 10942](https://github.com/Seoultech19-Computer-Enginerring-Study/2022_Algorithm_Study/raw/main/10942.pptx)|
 |김예빈|[BOJ 9251](https://github.com/Seoultech19-Computer-Enginerring-Study/2022_Algorithm_Study/raw/main/9251.pptx)|
+
+### 8차
+
+|참가자|불참|지각|
+|--|--|--|
+|김예빈, 엄유상|||
+
+**8차 정리 자료**
+|이름|링크|
+|--|--|
+|엄유상|[8주차](https://eomyoosang.github.io/algorithm/2022/02/23/Algorithm13/#)|
+|김예빈|[8주차](https://byein.tistory.com/category/Algorithm/8%EA%B0%95)|
+
+**8차 발표 자료**
+|이름|자료|
+|--|--|
+|엄유상|[BOJ 1202](https://github.com/Seoultech19-Computer-Enginerring-Study/2022_Algorithm_Study/raw/main/1202.pptx)|
+|김예빈|[BOJ 2170](https://github.com/Seoultech19-Computer-Enginerring-Study/2022_Algorithm_Study/raw/main/2170.pptx)|
