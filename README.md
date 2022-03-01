@@ -161,7 +161,7 @@
 **8차 정리 자료**
 |이름|링크|
 |--|--|
-|엄유상|[8주차](https://eomyoosang.github.io/algorithm/2022/02/23/Algorithm13/#)|
+|엄유상|[8주차](https://eomyoosang.github.io/algorithm/2022/02/26/Algorithm13/#)|
 |김예빈|[8주차](https://byein.tistory.com/category/Algorithm/8%EA%B0%95)|
 
 **8차 발표 자료**
